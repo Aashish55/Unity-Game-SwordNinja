@@ -1,7 +1,7 @@
 # Unity-Game-SwordNinja
 <h2>Sword Ninja is an android game developed with Unity and C#.</h2>
 <br><br>
-<h3>This is my first game in UNITY with C# to try some basics.The Game is fully functional and is with limited level.</h3>
+<h3>This is my first game in UNITY with C#.The Game is fully functional and is with limited level.</h3>
 <br><br>
 <img src="img/Screenshot1.png">
 <br><br>
